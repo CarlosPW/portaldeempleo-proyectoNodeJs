@@ -13,7 +13,7 @@ app.use(cors());
 const routerV1 = require("./routers/index");
 routerV1(app);
 
-app.use(express.static("build"));
+app.use(express.static("public"));
 
 const puerto = process.env.PORT;
 
