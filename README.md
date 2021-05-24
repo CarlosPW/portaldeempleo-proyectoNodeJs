@@ -1,21 +1,12 @@
-Respecto al proyecto final como ha sido en las últimas ediciones, es libre, por tanto, la idea que ustedes construyan su api a partir de alguna idea que consideren interesante.
-Tienen 2 opciones para la entrega:
+1. REPOSITORIO:
 
-1. Construir la capa del servidor con nodejs (obligatorio)
-2. Construir la capa del servidor con nodejs + reactjs+ Angular u otro si quieren (opcional)
-   Cualquiera de las 2 opciones es válida y la cantidad de servicios rest es variable
+2.
 
-Se evaluará:
+3. Carlos Alfredo Peñaloza Wodehouse
+   rut: 18.955.818-k
+4. DOCUMENTACION: https://documenter.getpostman.com/view/15723734/TzRUCTXV
 
-1. Construcción de apis rest (middlewares)
-2. Definición de rutas para los servicios rest
-3. Conexión a base de datos
-4. Arquitectura limpia del proyecto (la del curso)
-5. Definición de seguridad con JWT
-6. Cantidad de modelos (con 4 o 5 ya está bien), validaciones de campos y referencias con otros
-7. Habilitar protocolos de comunicación (CORS)
-8. Dos roles diferentes para usuarios
-9. Envío de algunos servicios rest probados en POSTMAN con su documentación
+RUTA DEL PROYECTO: https://nodeproyectofinal.herokuapp.com/
 
 Subir el proyecto:
 
