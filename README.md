@@ -1,4 +1,5 @@
-Carlos Alfredo Peñaloza Wodehouse
+Carlos Alfredo Peñaloza Wodehouse,
+
 rut: 18.955.818-k
 
 INICIACIÓN LOCAL: nodemon server
